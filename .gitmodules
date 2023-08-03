@@ -1,0 +1,12 @@
+[submodule "Logger_Registration_Login"]
+	path = Logger_Registration_Login
+	url = https://github.com/osozznanie/Implement-Project-Logger-Registration-Login-.git
+[submodule "project_Products_Bucket_8"]
+	path = project_Products_Bucket_8
+	url = https://github.com/osozznanie/Implement_project_Products_Bucket_8.git
+[submodule "Java_Advanced_10"]
+	path = Java_Advanced_10
+	url = https://github.com/osozznanie/Java_Advanced_10.git
+[submodule "Java_Advanced_9"]
+	path = Java_Advanced_9
+	url = https://github.com/osozznanie/Java_Advanced_9.git
